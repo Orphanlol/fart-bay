@@ -1,0 +1,35 @@
+{
+  "name": "Botany-Bay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.10",
+    "ddos": "^0.2.1",
+    "dompurify": "^2.3.2",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.11.1",
+    "jsdom": "^17.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "socket.io": "^2.3.0",
+    "unblocker": "^2.3.0",
+    "uptime-express": "0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeSalvageON/Botany-Bay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeSalvageON/Botany-Bay/issues"
+  },
+  "homepage": "https://github.com/CodeSalvageON/Botany-Bay#readme"
+}
